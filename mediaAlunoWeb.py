@@ -32,7 +32,7 @@ from reportlab.platypus import (
 
 st.set_page_config(
     page_title="Sistema de Análise de Notas - SESI",
-    page_icon="📚",
+    page_icon="📝",
     layout="wide"
 )
 
